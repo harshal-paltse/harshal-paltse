@@ -1,18 +1,17 @@
 👋 Hi, I'm Harshal Sham Paltse
 
-🎓 Aspiring Data Scientist | AI & Data Science BE Student (PVG’s COE Nashik)
 💻 MERN Stack & Frontend Developer | Exploring Gen-AI & Deep Learning
+
 🚀 Passionate about building impactful AI-based applications that solve real-world problems
+
+<p align="center">
+  <a href="https://github.com/harshal-paltse">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshal-paltse&theme=tokyonight" alt="Profile Summary" />
+  </a>
+</p>
 
 email :- harshalpaltse@gmail.com
 
-🌟 Featured Projects
-
-♻️ WasteWise – AI-driven waste classification system
-
-🌊 Marine Debris Detection – ML with Sentinel-2 satellite imagery
-
-☀️ Aditya-L1 CME Simulation App – Space weather visualization
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshal-paltse/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@harshalpaltse) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/HPaltse21958) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshalpaltse@gmail.com) 
@@ -31,14 +30,6 @@ email :- harshalpaltse@gmail.com
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshal-paltse&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=harshal302005&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-![Github Contributions](https://greptile-stats.vercel.app/api/widget/harshal-paltse/contributions)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
