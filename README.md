@@ -58,6 +58,22 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🤝 Collaboration & Opportunities
+
+- 👉 **Open to collaborations** on AI/ML projects, research papers & hackathons
+- 👉 **Looking for:** Research collaborations, Internship opportunities, Open source contributions
+- 👉 **If you like my work, consider giving a star** to my repositories!
+- 👉 **Follow me** for updates on my AI journey
+
+---
+
+<p align="center">
+  <em>Made with ❤️ by Harshal Paltse | AI & Data Science Engineer in Progress</em>
+  <br>
+  <img src="https://forthebadge.com/badge/source/blue/blue" alt="Built with Passion">
+</p>
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
