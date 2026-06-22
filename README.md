@@ -38,15 +38,13 @@
 - Consistent top-performer across national-level competitions
 - 9+ total hackathon awards (8 winners + 2 runner-ups)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshal-paltse&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harshal-paltse&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-paltse&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!-- Snake Game Repo View -->
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshal-paltse&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-paltse&layout=compact&theme=tokyonight" height="180" />
 </div>
 
+---
 ### 💼 Experience
 
 | **Role** | **Organization** | **Timeline** |
