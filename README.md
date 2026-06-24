@@ -10,6 +10,12 @@
   </a>
 </p>
 
+<div align="center">
+
+![https://komarev.com/ghpvc/?username=harshal-paltse&style=for-the-badge&color=2563EB](https://komarev.com/ghpvc/?username=harshal-paltse&style=for-the-badge&color=2563EB)
+
+</div>
+
 
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-paltse/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harshalpaltse) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HPaltse21958) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshalpaltse@gmail.com)
