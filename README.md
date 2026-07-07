@@ -1,5 +1,3 @@
-![Harshal Paltse](https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/main/harshal-profile-banner-green.svg)
-
 👋 Hi, I'm Harshal Sham Paltse
 
 💻 MERN Stack & Frontend Developer | Exploring Gen-AI & Deep Learning
