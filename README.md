@@ -130,12 +130,6 @@
 </p>
 
 ---
-### Experience
-
-| **Role** | **Organization** | **Timeline** |
-| :--- | :--- | :--- |
-| **Full - Stack Engineer  (Intern)** | *Nexonica Systems Pvt Ltd* | Learned And Developed  REST API , FAST API , Software Development , DataBase Management , And Devloped Fully Working Website . |
-| **Software Developer Engineer** | *Civora Nexus Pvt Ltd* | Worked On Project ML System Reliability and Drift Control System. |
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
