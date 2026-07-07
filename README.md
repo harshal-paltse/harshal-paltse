@@ -1,11 +1,5 @@
 ﻿![Harshal Paltse](https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/main/harshal-profile-banner-green%20(1).svg)
 
-<p align="center">
-  <a href="https://github.com/harshal-paltse">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshal-paltse&theme=tokyonight" alt="Profile Summary" />
-  </a>
-</p>
-
 <div align="center">
 
 ![https://komarev.com/ghpvc/?username=harshal-paltse&style=for-the-badge&color=2563EB](https://komarev.com/ghpvc/?username=harshal-paltse&style=for-the-badge&color=2563EB)
