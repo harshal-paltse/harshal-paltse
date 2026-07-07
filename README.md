@@ -6,6 +6,13 @@
 
 </div>
 
+### Experience
+
+| **Role** | **Organization** | **Timeline** |
+| :--- | :--- | :--- |
+| **Full - Stack Engineer  (Intern)** | *Nexonica Systems Pvt Ltd* | Learned And Developed  REST API , FAST API , Software Development , DataBase Management , And Devloped Fully Working Website . |
+| **Software Developer Engineer** | *Civora Nexus Pvt Ltd* | Worked On Project ML System Reliability and Drift Control System. |
+
 
 ## Hackathon Achievements
 
@@ -27,7 +34,7 @@
 - **International Finalist:** BioDiversity Hackathon, Kazakhstan
 - Consistent top-performer across national-level competitions
 - 9+ total hackathon awards (8 winners + 2 runner-ups)
-- 
+  
 ### Tech Stack
 <div align="center">
   <table>
