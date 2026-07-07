@@ -118,14 +118,18 @@
 </div>
 
 ### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshal-paltse&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-paltse&layout=compact&theme=tokyonight" height="180" />
-</div>
+<p align="center">
+  <a href="https://github.com/harshal-paltse">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshal-paltse&theme=tokyonight" alt="Profile Summary" width="700" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/harshal-paltse">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshal-paltse&theme=tokyonight" alt="Profile Summary" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshal-paltse&theme=tokyonight" alt="Stats" width="345" />
+  </a>
+  <a href="https://github.com/harshal-paltse">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshal-paltse&theme=tokyonight" alt="Repos per Language" width="345" />
   </a>
 </p>
 
