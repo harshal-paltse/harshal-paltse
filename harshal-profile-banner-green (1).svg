@@ -1,0 +1,245 @@
+<svg width="1500" height="500" viewBox="0 0 1500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"  stop-color="#0a0f0a"/>
+      <stop offset="55%" stop-color="#0d1a0d"/>
+      <stop offset="80%" stop-color="#123312"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+    <linearGradient id="rightBlock" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22c55e" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#39e669" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7CFF9E"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+    <pattern id="halftone" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="8" cy="8" r="1.4" fill="#39e669" opacity="0.35"/>
+    </pattern>
+    <mask id="halftoneMask">
+      <rect x="0" y="0" width="900" height="500" fill="url(#fadeMask)"/>
+    </mask>
+    <linearGradient id="fadeMask" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.6"/>
+    </linearGradient>
+    <clipPath id="frame"><rect x="0" y="0" width="1500" height="500"/></clipPath>
+    <filter id="softBlur"><feGaussianBlur stdDeviation="6"/></filter>
+
+    <radialGradient id="skinGrad" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#ffd9ac"/>
+      <stop offset="100%" stop-color="#f0b884"/>
+    </radialGradient>
+    <linearGradient id="hoodieGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2fe37a"/>
+      <stop offset="55%" stop-color="#16a34a"/>
+      <stop offset="100%" stop-color="#0c6b32"/>
+    </linearGradient>
+    <linearGradient id="hoodieShade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0c6b32" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#053b1b" stop-opacity="0.55"/>
+    </linearGradient>
+    <radialGradient id="hairGrad" cx="35%" cy="20%" r="80%">
+      <stop offset="0%" stop-color="#3a3a3a"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </radialGradient>
+    <radialGradient id="cheekGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff8e7a" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#ff8e7a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <!-- base background -->
+    <rect width="1500" height="500" fill="url(#bgGrad)"/>
+
+    <!-- left thin green accent bar -->
+    <rect x="0" y="0" width="14" height="500" fill="#39e669"/>
+    <rect x="14" y="0" width="70" height="500" fill="#0a0f0a"/>
+    <rect x="60" y="0" width="6" height="500" fill="#39e669" opacity="0.6"/>
+
+    <!-- halftone dot texture -->
+    <rect x="0" y="0" width="900" height="500" fill="url(#halftone)" mask="url(#halftoneMask)"/>
+
+    <!-- ghost outline big letters, background -->
+    <g font-family="Arial Black, Arial, sans-serif" font-weight="900" fill="none" stroke="#2f6b3f" stroke-width="1.5" opacity="0.5">
+      <text x="15" y="330" font-size="280">H</text>
+      <text x="190" y="330" font-size="280">P</text>
+    </g>
+
+    <!-- small bold full name -->
+    <text x="95" y="120" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="42" fill="url(#nameGrad)" letter-spacing="3">HARSHAL PALTSE</text>
+    <rect x="97" y="133" width="305" height="4" fill="#39e669"/>
+
+    <!-- subtitle roles -->
+    <text x="95" y="180" font-family="Segoe UI, Verdana, sans-serif" font-size="24" font-weight="700" fill="#e9fff0" letter-spacing="2">SOFTWARE ENGINEER  •  AI ENGINEER</text>
+
+    <!-- full quote -->
+    <text x="95" y="222" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#c9f7d6" opacity="0.95">"Talk is cheap. Show me the code."</text>
+    <text x="95" y="246" font-family="Georgia, serif" font-size="16" fill="#8fd6a5" opacity="0.85">— Linus Torvalds</text>
+
+    <!-- achievements row -->
+    <g font-family="Segoe UI, Verdana, sans-serif" font-size="15" fill="#0a0f0a" font-weight="700">
+      <rect x="95" y="266" width="215" height="34" rx="17" fill="#39e669"/>
+      <text x="202" y="288" text-anchor="middle">🏆 8x Hackathon Winner</text>
+
+      <rect x="320" y="266" width="225" height="34" rx="17" fill="#39e669"/>
+      <text x="432" y="288" text-anchor="middle">🌱 Open Source Contributor</text>
+
+      <rect x="95" y="308" width="250" height="34" rx="17" fill="#0d1a0d" stroke="#39e669" stroke-width="1.5"/>
+      <text x="220" y="330" text-anchor="middle" fill="#c9f7d6">🌍 Intl. Finalist, Kazakhstan</text>
+    </g>
+
+    <!-- divider -->
+    <line x1="95" y1="360" x2="590" y2="360" stroke="#234f2d" stroke-width="1"/>
+
+    <!-- contact details -->
+    <g font-family="Segoe UI, Verdana, sans-serif" font-size="15" fill="#d7ffe4">
+      <text x="95" y="388">✉️  harshalpaltse@gmail.com</text>
+      <text x="95" y="414">📱  +91 93599 47410</text>
+    </g>
+
+    <!-- LinkedIn badge (clickable) -->
+    <a xlink:href="https://www.linkedin.com/in/harshal-paltse/" target="_blank">
+      <rect x="93" y="430" width="215" height="34" rx="6" fill="#0A66C2"/>
+      <g transform="translate(104,438)">
+        <rect x="0" y="0" width="18" height="18" rx="3" fill="#ffffff"/>
+        <rect x="3" y="7" width="3.5" height="8" fill="#0A66C2"/>
+        <circle cx="4.7" cy="4" r="2" fill="#0A66C2"/>
+        <path d="M9,7 h3.2 v1.6 c0.6,-1.1 1.9,-1.9 3.4,-1.9 c2.6,0 3.4,1.6 3.4,4 v4.3 h-3.4 v-3.8 c0,-1 -0.4,-1.7 -1.3,-1.7 c-0.9,0 -1.5,0.6 -1.5,1.8 v3.7 h-3.4 z" fill="#0A66C2"/>
+      </g>
+      <text x="134" y="452" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" fill="#ffffff">Harshal Paltse</text>
+    </a>
+
+    <!-- Waving 3D-style cartoon avatar, polished -->
+    <g transform="translate(740,270)">
+      <!-- shadow -->
+      <ellipse cx="0" cy="180" rx="75" ry="15" fill="#000000" opacity="0.35"/>
+
+      <!-- legs / shoes -->
+      <path d="M-30,150 q-4,20 -10,30 q-2,8 8,8 q12,0 12,-10 l4,-28 Z" fill="#0d1117"/>
+      <path d="M30,150 q4,20 10,30 q2,8 -8,8 q-12,0 -12,-10 l-4,-28 Z" fill="#0d1117"/>
+      <ellipse cx="-32" cy="188" rx="16" ry="7" fill="#39e669"/>
+      <ellipse cx="32" cy="188" rx="16" ry="7" fill="#39e669"/>
+
+      <!-- body / hoodie with gradient shading -->
+      <path d="M-62,150 q-8,-95 25,-125 q37,-28 74,0 q33,30 25,125 q-62,25 -124,0 Z" fill="url(#hoodieGrad)"/>
+      <path d="M-62,150 q-8,-95 25,-125 q37,-28 74,0 q33,30 25,125 q-62,25 -124,0 Z" fill="url(#hoodieShade)"/>
+      <path d="M-62,150 q-8,-95 25,-125 q37,-28 74,0 q33,30 25,125 q-62,25 -124,0 Z" fill="none" stroke="#053b1b" stroke-width="3"/>
+      <!-- zipper -->
+      <line x1="0" y1="35" x2="0" y2="150" stroke="#0a4423" stroke-width="3" stroke-dasharray="2 4"/>
+      <circle cx="0" cy="150" r="4" fill="#c9f7d6"/>
+      <!-- hood collar -->
+      <path d="M-24,8 q24,20 48,0 l8,22 q-32,22 -64,0 Z" fill="#0c6b32"/>
+      <path d="M-24,8 q24,20 48,0 l4,12 q-26,17 -56,0 Z" fill="#2fe37a" opacity="0.5"/>
+      <!-- pocket -->
+      <path d="M-34,105 q34,14 68,0 l-4,14 q-30,12 -60,0 Z" fill="#0a4423" opacity="0.7"/>
+      <!-- string ties -->
+      <circle cx="-10" cy="55" r="3.5" fill="#e9fff0"/>
+      <circle cx="10" cy="55" r="3.5" fill="#e9fff0"/>
+      <path d="M-10,55 q-4,14 -2,26" stroke="#e9fff0" stroke-width="2" fill="none"/>
+      <path d="M10,55 q4,14 2,26" stroke="#e9fff0" stroke-width="2" fill="none"/>
+
+      <!-- left arm (static, resting) with shading -->
+      <path d="M-58,35 q-32,20 -30,60 q2,20 22,22 q14,-2 16,-18 q-6,-30 10,-52 Z" fill="url(#hoodieGrad)" stroke="#053b1b" stroke-width="3"/>
+      <circle cx="-66" cy="112" r="16" fill="url(#skinGrad)" stroke="#d99f6c" stroke-width="1.5"/>
+
+      <!-- neck -->
+      <rect x="-14" y="-8" width="28" height="20" fill="url(#skinGrad)"/>
+
+      <!-- head -->
+      <circle cx="0" cy="-48" r="55" fill="url(#skinGrad)" stroke="#d99f6c" stroke-width="1.5"/>
+      <!-- cheeks -->
+      <circle cx="-33" cy="-30" r="11" fill="url(#cheekGrad)"/>
+      <circle cx="33" cy="-30" r="11" fill="url(#cheekGrad)"/>
+
+      <!-- hair, stylish swept fringe -->
+      <path d="M-55,-58 q-6,-58 55,-62 q60,4 55,62 q-6,-18 -20,-24 q4,10 -2,16 q-8,-16 -24,-18 q6,10 -2,14 q-10,-14 -26,-12 q4,8 -4,12 q-8,-14 -22,-6 q-6,6 -10,18 Z" fill="url(#hairGrad)"/>
+      <path d="M46,-70 q18,4 15,26 q-3,12 -15,12 q6,-18 0,-38 Z" fill="url(#hairGrad)"/>
+
+      <!-- eyebrows -->
+      <path d="M-30,-62 q10,-6 20,-2" stroke="#1a1a1a" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+      <path d="M10,-64 q10,-4 20,2" stroke="#1a1a1a" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+
+      <!-- eyes, expressive -->
+      <ellipse cx="-19" cy="-46" rx="8" ry="10" fill="#1a1a1a"/>
+      <ellipse cx="19" cy="-46" rx="8" ry="10" fill="#1a1a1a"/>
+      <circle cx="-16.5" cy="-50" r="2.6" fill="#ffffff"/>
+      <circle cx="21.5" cy="-50" r="2.6" fill="#ffffff"/>
+      <circle cx="-21" cy="-42" r="1.4" fill="#ffffff" opacity="0.8"/>
+      <circle cx="16.5" cy="-42" r="1.4" fill="#ffffff" opacity="0.8"/>
+
+      <!-- nose -->
+      <path d="M-3,-32 q3,6 0,10" stroke="#d99f6c" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+      <!-- big happy smile -->
+      <path d="M-19,-16 q19,20 38,0 q-19,10 -38,0 Z" fill="#7a3d1e"/>
+      <path d="M-19,-16 q19,14 38,0" stroke="#5a2c14" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+      <path d="M-13,-17 q13,9 26,0" fill="#ffffff" opacity="0.9"/>
+
+      <!-- waving right arm, animated -->
+      <g transform="translate(58,20)">
+        <animateTransform attributeName="transform" type="rotate"
+          values="0 58 20; 35 58 20; 0 58 20; -12 58 20; 0 58 20"
+          keyTimes="0;0.25;0.5;0.75;1"
+          dur="1.4s" repeatCount="indefinite"/>
+        <path d="M0,0 q40,-8 55,-45 q6,-16 -10,-24 q-16,-6 -24,10 q-16,26 -35,34 Z" fill="url(#hoodieGrad)" stroke="#053b1b" stroke-width="3"/>
+        <circle cx="47" cy="-68" r="17" fill="url(#skinGrad)" stroke="#d99f6c" stroke-width="1.5"/>
+        <!-- little wave lines -->
+        <path d="M62,-92 q6,-6 4,-14" stroke="#eafff0" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.8"/>
+        <path d="M70,-84 q8,-2 8,-10" stroke="#eafff0" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.6"/>
+      </g>
+
+      <!-- speech bubble -->
+      <g transform="translate(95,-140)">
+        <rect x="0" y="0" width="92" height="48" rx="16" fill="#ffffff"/>
+        <path d="M14,46 l-16,20 l24,-10 Z" fill="#ffffff"/>
+        <text x="46" y="32" font-family="Segoe UI, Verdana, sans-serif" font-size="23" font-weight="800" fill="#159a4a" text-anchor="middle">Hii! 👋</text>
+        <animateTransform attributeName="transform" type="translate"
+          values="95,-140; 95,-146; 95,-140"
+          keyTimes="0;0.5;1" dur="1.4s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <!-- Original sci-fi helmet emblem badge -->
+    <g transform="translate(1080,250)">
+      <circle cx="0" cy="10" r="165" fill="none" stroke="#39e669" stroke-width="2" opacity="0.35"/>
+      <circle cx="0" cy="10" r="150" fill="none" stroke="#7CFF9E" stroke-width="1" opacity="0.5" stroke-dasharray="4 8"/>
+      <circle cx="0" cy="10" r="150" fill="#0a1a0d" opacity="0.55"/>
+      <circle cx="0" cy="-55" r="55" fill="#39e669" opacity="0.35" filter="url(#softBlur)"/>
+
+      <path d="M-125,105 q-16,-32 8,-56 l70,-24 q24,8 24,32 l-8,72 q-48,16 -94,-24 Z" fill="#12170f" stroke="#39e669" stroke-width="1.5" opacity="0.95"/>
+      <path d="M125,105 q16,-32 -8,-56 l-70,-24 q-24,8 -24,32 l8,72 q48,16 94,-24 Z" fill="#12170f" stroke="#39e669" stroke-width="1.5" opacity="0.95"/>
+      <path d="M-75,40 l150,0 l-12,110 q-63,24 -126,0 Z" fill="#171d13"/>
+      <path d="M-24,118 l48,0 l-24,36 Z" fill="#0a0f0a"/>
+      <line x1="-55" y1="55" x2="55" y2="55" stroke="#39e669" stroke-width="1" opacity="0.5"/>
+      <ellipse cx="0" cy="-55" rx="75" ry="83" fill="#1b2216"/>
+      <path d="M-75,-55 a75,83 0 0 1 150,0 l-5,32 l-140,0 Z" fill="#12170f"/>
+      <path d="M-51,-55 q51,-28 102,0 q-4,35 -51,39 q-47,-4 -51,-39 Z" fill="url(#nameGrad)" opacity="0.9"/>
+      <path d="M-51,-55 q51,-28 102,0 q-4,35 -51,39 q-47,-4 -51,-39 Z" fill="none" stroke="#eafff0" stroke-width="2"/>
+      <rect x="71" y="-75" width="43" height="11" rx="3" fill="#0a0f0a" stroke="#39e669" stroke-width="1"/>
+      <rect x="110" y="-79" width="8" height="43" rx="3" fill="#0a0f0a" stroke="#39e669" stroke-width="1"/>
+      <circle cx="114" cy="-83" r="5" fill="#7CFF9E"/>
+      <circle cx="0" cy="70" r="9" fill="#7CFF9E"/>
+      <circle cx="0" cy="70" r="14" fill="none" stroke="#39e669" stroke-width="1.5" opacity="0.8"/>
+    </g>
+    <text x="1080" y="450" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" fill="#7CFF9E" text-anchor="middle" letter-spacing="4" opacity="0.9">THE BUILDER</text>
+
+    <!-- right solid green block -->
+    <rect x="1280" y="0" width="220" height="500" fill="url(#rightBlock)"/>
+    <rect x="1440" y="0" width="60" height="500" fill="#39e669"/>
+
+    <g stroke="#0a0f0a" stroke-width="2" opacity="0.35" fill="none">
+      <path d="M1300 60 h60 v40 h40"/>
+      <path d="M1320 200 h80 v60"/>
+      <path d="M1310 340 h100 v40 h60"/>
+      <circle cx="1300" cy="60" r="4" fill="#0a0f0a"/>
+      <circle cx="1400" cy="100" r="4" fill="#0a0f0a"/>
+      <circle cx="1400" cy="260" r="4" fill="#0a0f0a"/>
+    </g>
+
+    <text x="1390" y="470" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="700" fill="#0a0f0a" text-anchor="middle">EKIP BHASKAR</text>
+  </g>
+</svg>
