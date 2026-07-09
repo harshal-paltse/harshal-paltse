@@ -13,6 +13,59 @@
 | **Full - Stack Engineer  (Intern)** | *Nexonica Systems Pvt Ltd* | Learned And Developed  REST API , FAST API , Software Development , DataBase Management , And Devloped Fully Working Website . |
 | **Software Developer Engineer** | *Civora Nexus Pvt Ltd* | Worked On Project ML System Reliability and Drift Control System. |
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 ML Pipeline Reliability</h3>
+      <p>Production-focused ML system designed to improve model reliability, monitoring, and failure handling across the pipeline with a practical deployment-oriented approach.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-ff6f00?style=flat"/>
+        <img src="https://img.shields.io/badge/ML%20Pipeline-00599C?style=flat"/>
+        <img src="https://img.shields.io/badge/Reliability-2ea44f?style=flat"/>
+      </p>
+      <a href="https://github.com/harshal-paltse">📂 Repo</a>
+    </td>
+    <td width="50%">
+      <h3>🔍 ForenxAI</h3>
+      <p>AI-powered forensic intelligence project built to support structured analysis, smarter investigation workflows, and intelligent decision assistance using modern AI techniques.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"/>
+        <img src="https://img.shields.io/badge/AI%20%26%20ML-purple?style=flat"/>
+        <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat"/>
+        <img src="https://img.shields.io/badge/Forensics-000000?style=flat"/>
+      </p>
+      <a href="https://github.com/harshal-paltse">📂 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏟️ Stadiyum Sync</h3>
+      <p>Smart stadium coordination platform designed to streamline event syncing, user engagement, and real-time operational flow for large-scale venue experiences.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Realtime-ff4d4d?style=flat"/>
+        <img src="https://img.shields.io/badge/Smart%20Platform-2ea44f?style=flat"/>
+      </p>
+      <a href="https://github.com/harshal-paltse">📂 Repo</a>
+    </td>
+    <td width="50%">
+      <h3>📘 LearnBE</h3>
+      <p>An interactive learning platform built to simplify engineering study, improve concept clarity, and support structured academic progress with a clean user experience.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Education-0088cc?style=flat"/>
+        <img src="https://img.shields.io/badge/EdTech-2ea44f?style=flat"/>
+      </p>
+      <a href="https://github.com/harshal-paltse">📂 Repo</a>
+    </td>
+  </tr>
+</table>
+
 
 ## Hackathon Achievements
 
