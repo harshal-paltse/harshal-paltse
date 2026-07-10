@@ -179,11 +179,11 @@
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## by Harshal Paltse | AI & Data Science Engineer in Progress</em>
+<p align="center">
+  <em>Crafting intelligent systems, shipping reliable code, and solving real-world problems.</em>
   <br>
-  <img src="https://forthebadge.com/badge/source/blue/blue" alt="Built with Passion">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Passion" />
 </p>
-
 
 
 
