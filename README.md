@@ -26,7 +26,7 @@
         <img src="https://img.shields.io/badge/ML%20Pipeline-00599C?style=flat"/>
         <img src="https://img.shields.io/badge/Reliability-2ea44f?style=flat"/>
       </p>
-      <a href="https://github.com/harshal-paltse">📂 Repo</a>
+      <a href="https://github.com/harshal-paltse/ML-pipeline-Reliability-drift-control-system.git">📂 Repo</a>
     </td>
     <td width="50%">
       <h3>🔍 ForenxAI</h3>
@@ -37,7 +37,7 @@
         <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat"/>
         <img src="https://img.shields.io/badge/Forensics-000000?style=flat"/>
       </p>
-      <a href="https://github.com/harshal-paltse">📂 Repo</a>
+      <a href="https://github.com/harshal-paltse/ForenXAI.git">📂 Repo</a>
     </td>
   </tr>
   <tr>
@@ -50,10 +50,10 @@
         <img src="https://img.shields.io/badge/Realtime-ff4d4d?style=flat"/>
         <img src="https://img.shields.io/badge/Smart%20Platform-2ea44f?style=flat"/>
       </p>
-      <a href="https://github.com/harshal-paltse">📂 Repo</a>
+      <a href="https://github.com/harshal-paltse/Stadium-Sync-.git">📂 Repo</a>
     </td>
     <td width="50%">
-      <h3>📘 LearnBE</h3>
+      <h3>📘 Learn BE</h3>
       <p>An interactive learning platform built to simplify engineering study, improve concept clarity, and support structured academic progress with a clean user experience.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -61,7 +61,7 @@
         <img src="https://img.shields.io/badge/Education-0088cc?style=flat"/>
         <img src="https://img.shields.io/badge/EdTech-2ea44f?style=flat"/>
       </p>
-      <a href="https://github.com/harshal-paltse">📂 Repo</a>
+      <a href="https://github.com/harshal-paltse/LearnBe.git">📂 Repo</a>
     </td>
   </tr>
 </table>
