@@ -1,4 +1,4 @@
-﻿![Harshal Paltse](https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/main/harshal-profile-banner-green%20(1).svg)
+![Harshal Paltse](https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/main/harshal-profile-banner-static.svg)
 
 <div align="center">
 
