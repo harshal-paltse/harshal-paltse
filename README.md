@@ -159,16 +159,15 @@
 </div>
 
 ### GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshal-paltse&theme=tokyonight" alt="Profile Summary" width="700" />
+  <img src="https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshal-paltse&theme=tokyonight" alt="Stats" width="345" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshal-paltse&theme=tokyonight" alt="Repos per Language" width="345" />
+  <img src="https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" width="345" />
+  <img src="https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="345" />
 </p>
-
----
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
