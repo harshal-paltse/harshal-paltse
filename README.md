@@ -161,12 +161,18 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <a href="https://github.com/harshal-paltse">
+    <img src="https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" width="345" />
-  <img src="https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="345" />
+  <a href="https://github.com/harshal-paltse">
+    <img src="https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" width="345" />
+  </a>
+  <a href="https://github.com/harshal-paltse">
+    <img src="https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="345" />
+  </a>
 </p>
 
 ### Random Dev Quote
