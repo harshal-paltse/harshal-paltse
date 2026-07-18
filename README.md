@@ -150,8 +150,11 @@
 
 <p align="center">
   
-### Random Dev Quote
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 <p align="center">
   <em>Crafting intelligent systems, shipping reliable code, and solving real-world problems.</em>
