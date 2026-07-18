@@ -69,25 +69,18 @@
 
 ## Hackathon Achievements
 
-### **Winner in 8 National Hackathons**
+## 🏆 Achievements
 
-| # | Hackathon | Prize | Type |
-|---|-----------|-------|------|
-| 1 | **NASA Space Apps Challenge** | Winner | International/National |
-| 2 | **Blockverse Hackathon** | 1st Prize | National |
-| 3 | **SKH Technofest Hackathon** | 1st Prize | National |
-| 4 | **UpXGen Hackathon** | 1st Prize (**Solo**) | National |
-| 5 | **SIH Internal Hackathon** | 1st Prize | National (Smart India Hackathon) |
-| 6 | **Oscillation Hackathon** | 1st Prize | National |
-| 7 | **Avishkar Hackathon** | Runner Up | National |
-| 8 | **Techathon 2.0 (Pune)** | Runner Up | National |
+<div align="center">
 
-### **Finalist in 12+ National Hackathons**
+| Achievement | Details |
+|---|---|
+| **Winner in 8 National Hackathons** | NASA Space Apps Challenge, Blockverse, SKH Technofest, UpXGen (Solo), SIH Internal Hackathon, Oscillation |
+| **Runner-Up** | Avishkar Hackathon, Techathon 2.0 (Pune) |
+| **International Finalist** | BioDiversity Hackathon, Kazakhstan |
+| **National Finalist** | Finalist in 12 National Hackathons |
 
-- **International Finalist:** BioDiversity Hackathon, Kazakhstan
-- Consistent top-performer across national-level competitions
-- 9+ total hackathon awards (8 winners + 2 runner-ups)
-  
+</div>
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
