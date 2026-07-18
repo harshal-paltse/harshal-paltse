@@ -150,23 +150,6 @@
 
 <p align="center">
   
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/harshal-paltse">
-    <img src="https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/harshal-paltse">
-    <img src="https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" width="345" />
-  </a>
-  <a href="https://github.com/harshal-paltse">
-    <img src="https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="345" />
-  </a>
-</p>
-
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
