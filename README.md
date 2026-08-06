@@ -75,7 +75,7 @@
 
 | Achievement | Details |
 |---|---|
-| **Winner in 8 National Hackathons** | NASA Space Apps Challenge, Blockverse, SKH Technofest, UpXGen (Solo), SIH Internal Hackathon, Oscillation |
+| **Winner in 8 National Hackathons** | Blockverse, SKH Technofest, UpXGen (Solo), SIH Internal Hackathon, Oscillation |
 | **Runner-Up** | Avishkar Hackathon, Techathon 2.0 (Pune) |
 | **International Finalist** | BioDiversity Hackathon, Kazakhstan |
 | **National Finalist** | Finalist in 12 National Hackathons |
