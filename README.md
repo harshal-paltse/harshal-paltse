@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<a href="mailto:harshalpaltse@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_NEW_ROLES-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" alt="Open to new roles" /></a>
+<a href="mailto:harshalpaltse@gmail.com"><img src="https://img.shields.io/badge/OPEN_TO_NEW_ROLES-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" alt="Open to new roles" /></a>
 
 </div>
 
-<h2 align="center">🏆 Hackathon Achievements</h2>
+<h2 align="center"> Hackathon Achievements</h2>
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 </div>
 
-<h2 align="center">🌐 Open Source Contributions</h2>
+<h2 align="center"> Open Source Contributions</h2>
 
 <details open>
 <summary><b>View All 6 Merged Upstream Pull Requests</b></summary>
@@ -37,7 +37,7 @@
 
 <p align="center">🔎 <a href="https://github.com/pulls/search?q=is%3Apr+author%3Aharshal-paltse+sort%3Aupdated-desc">View all my pull requests on GitHub</a></p>
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center"> Tech Stack & Tools</h2>
 
 <table align="center">
 <tr>
@@ -98,7 +98,5 @@
 <em>Crafting intelligent systems, shipping reliable code, and solving real-world problems.</em>
 
 <br><br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=harshal-paltse&style=for-the-badge&color=2563EB)
-
 </div>
