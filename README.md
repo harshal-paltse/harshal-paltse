@@ -2,74 +2,11 @@
 
 <div align="center">
 
-![https://komarev.com/ghpvc/?username=harshal-paltse&style=for-the-badge&color=2563EB](https://komarev.com/ghpvc/?username=harshal-paltse&style=for-the-badge&color=2563EB)
+<a href="mailto:harshalpaltse@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_NEW_ROLES-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" alt="Open to new roles" /></a>
 
 </div>
 
-### Experience
-
-| **Role** | **Organization** | **Timeline** |
-| :--- | :--- | :--- |
-| **Full - Stack Engineer  (Intern)** | *Nexonica Systems Pvt Ltd* | Learned And Developed  REST API , FAST API , Software Development , DataBase Management , And Devloped Fully Working Website . |
-| **Software Developer Engineer** | *Civora Nexus Pvt Ltd* | Worked On Project ML System Reliability and Drift Control System. |
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🧠 ML Pipeline Reliability</h3>
-      <p>Production-focused ML system designed to improve model reliability, monitoring, and failure handling across the pipeline with a practical deployment-oriented approach.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"/>
-        <img src="https://img.shields.io/badge/Machine%20Learning-ff6f00?style=flat"/>
-        <img src="https://img.shields.io/badge/ML%20Pipeline-00599C?style=flat"/>
-        <img src="https://img.shields.io/badge/Reliability-2ea44f?style=flat"/>
-      </p>
-      <a href="https://github.com/harshal-paltse/ML-pipeline-Reliability-drift-control-system.git">📂 Repo</a>
-    </td>
-    <td width="50%">
-      <h3>🔍 ForenxAI</h3>
-      <p>AI-powered forensic intelligence project built to support structured analysis, smarter investigation workflows, and intelligent decision assistance using modern AI techniques.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"/>
-        <img src="https://img.shields.io/badge/AI%20%26%20ML-purple?style=flat"/>
-        <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat"/>
-        <img src="https://img.shields.io/badge/Forensics-000000?style=flat"/>
-      </p>
-      <a href="https://github.com/harshal-paltse/ForenXAI.git">📂 Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏟️ Stadiyum Sync</h3>
-      <p>Smart stadium coordination platform designed to streamline event syncing, user engagement, and real-time operational flow for large-scale venue experiences.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Realtime-ff4d4d?style=flat"/>
-        <img src="https://img.shields.io/badge/Smart%20Platform-2ea44f?style=flat"/>
-      </p>
-      <a href="https://github.com/harshal-paltse/Stadium-Sync-.git">📂 Repo</a>
-    </td>
-    <td width="50%">
-      <h3>📘 Learn BE</h3>
-      <p>An interactive learning platform built to simplify engineering study, improve concept clarity, and support structured academic progress with a clean user experience.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Education-0088cc?style=flat"/>
-        <img src="https://img.shields.io/badge/EdTech-2ea44f?style=flat"/>
-      </p>
-      <a href="https://github.com/harshal-paltse/LearnBe.git">📂 Repo</a>
-    </td>
-  </tr>
-</table>
-
-
-## Hackathon Achievements
-
-## 🏆 Achievements
+<h2 align="center">🏆 Hackathon Achievements</h2>
 
 <div align="center">
 
@@ -82,17 +19,34 @@
 
 </div>
 
+<h2 align="center">🌐 Open Source Contributions</h2>
+
+<details open>
+<summary><b>View All 6 Merged Upstream Pull Requests</b></summary>
+
+| # | Repository | PR | Functional Scope | Merge Date | Merge Commit |
+|:---:|---|:---:|---|:---:|:---:|
+| 1 | `JetBrains/thinkrail` | [#1125](https://github.com/JetBrains/thinkrail/pull/1125) | `fix(cli): reject empty/non-decimal --port and --host, ignore invalid env values` | 2026-11-06 | `519286be` |
+| 2 | `JetBrains/thinkrail` | [#1190](https://github.com/JetBrains/thinkrail/pull/1190) | `fix(web): parse THINKRAIL_WEB_PORT and THINKRAIL_PORT strictly in vite config` | 2026-11-05 | `a0fccdc9` |
+| 3 | `JetBrains/thinkrail` | [#1156](https://github.com/JetBrains/thinkrail/pull/1156) | `fix(dev): parse THINKRAIL_PORT strictly in the dev launchers` | 2026-11-05 | `8cd11e67` |
+| 4 | `SuiteCRM/SuiteCRM` | [#10913](https://github.com/SuiteCRM/SuiteCRM/pull/10913) | `Fixed #10907 - Remove unintended < symbol from SuiteCRM trademark notice` | 2026-10-29 | `ccb02b1` |
+| 5 | `mlflow/mlflow` | [#25829](https://github.com/mlflow/mlflow/pull/25829) | `fix: treat .ipynb notebooks as text/plain in artifact preview` | 2026-09-22 | `7e221982` |
+| 6 | `K-Tanish/symptom-assist` | [#18](https://github.com/K-Tanish/symptom-assist/pull/18) | `Fix: Improve Groq API error handling with retry logic (Fixes Bug #2)` | 2026-04-20 | `e656cbf` |
+
+</details>
+
+<p align="center">🔎 <a href="https://github.com/pulls/search?q=is%3Apr+author%3Aharshal-paltse+sort%3Aupdated-desc">View all my pull requests on GitHub</a></p>
+
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <table align="center">
 <tr>
-<th> Languages</th>
-<th> Frontend</th>
-<th> Backend & Database</th>
-<th> AI & LLM</th>
-<th> Tools</th>
+<th>Languages</th>
+<th>Frontend</th>
+<th>Backend & Database</th>
+<th>AI & LLM</th>
+<th>Tools</th>
 </tr>
-
 <tr>
 <td align="center">
 
@@ -101,7 +55,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </td>
-
 <td align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>
@@ -111,7 +64,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </td>
-
 <td align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)<br>
@@ -120,15 +72,13 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </td>
-
 <td align="center">
 
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)<br>
 ![Local LLMs](https://img.shields.io/badge/Local%20LLMs-4B0082?style=for-the-badge)<br>
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)<br>
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
 </td>
-
 <td align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>
@@ -141,20 +91,14 @@
 </tr>
 </table>
 
-<p align="center">
-  
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<em>Crafting intelligent systems, shipping reliable code, and solving real-world problems.</em>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=harshal-paltse&style=for-the-badge&color=2563EB)
+
 </div>
-
-<p align="center">
-  <em>Crafting intelligent systems, shipping reliable code, and solving real-world problems.</em>
-  <br>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Passion" />
-</p>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
