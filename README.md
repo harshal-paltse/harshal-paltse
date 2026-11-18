@@ -1,4 +1,4 @@
-![Harshal Paltse](https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/main/harshal-profile-banner-static.svg)
+![Harshal Paltse](https://raw.githubusercontent.com/harshal-paltse/harshal-paltse/main/harshal-profile-banner-static%20%284%29.svg)
 
 <div align="center">
 
@@ -6,20 +6,20 @@
 
 </div>
 
-<h2 align="center"> Hackathon Achievements</h2>
+<h2 align="center">Hackathon Achievements</h2>
 
 <div align="center">
 
 | Achievement | Details |
 |---|---|
-| **Winner in 10 National Hackathons** | Blockverse, SKH Technofest, UpXGen (Solo), SIH Internal Hackathon, Oscillation , Avishkar |
+| **Winner in 10 National Hackathons** | Blockverse, SKH Technofest, UpXGen (Solo), SIH Internal Hackathon, Oscillation, Avishkar |
 | **Runner-Up** | Avishkar Hackathon, Techathon 2.0 (Pune) |
-| **International Finalist** | BioDiversity Hackathon, Kazakhstan . 2nd Washington Hackathon , usa |
+| **International Finalist** | BioDiversity Hackathon, Kazakhstan · 2nd Washington Hackathon, USA |
 | **National Finalist** | Finalist in 24 National Hackathons |
 
 </div>
 
-<h2 align="center"> Open Source Contributions</h2>
+<h2 align="center">Open Source Contributions</h2>
 
 <details open>
 <summary><b>View All 8 Merged Upstream Pull Requests</b></summary>
@@ -37,9 +37,9 @@
 
 </details>
 
-<p align="center"> <a href="https://github.com/pulls/search?q=is%3Apr+author%3Aharshal-paltse+sort%3Aupdated-desc">View all my pull requests on GitHub</a></p>
+<p align="center"><a href="https://github.com/pulls/search?q=is%3Apr+author%3Aharshal-paltse+sort%3Aupdated-desc">View all my pull requests on GitHub</a></p>
 
-<h2 align="center"> Tech Stack & Tools</h2>
+<h2 align="center">Tech Stack & Tools</h2>
 
 <table align="center">
 <tr>
