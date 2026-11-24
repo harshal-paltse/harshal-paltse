@@ -22,18 +22,20 @@
 <h2 align="center">Open Source Contributions</h2>
 
 <details open>
-<summary><b>View All 8 Merged Upstream Pull Requests</b></summary>
+<summary><b>View All 10 Merged Upstream Pull Requests</b></summary>
 
 | # | Repository | PR | Functional Scope | Merge Date | Merge Commit |
 |:---:|---|:---:|---|:---:|:---:|
-| 1 | `JetBrains/thinkrail` | [#1412](https://github.com/JetBrains/thinkrail/pull/1412) | `test(ui): normalize source paths in the IME guard test on Windows` | 2026-11-18 | `e632a12c` |
-| 2 | `JetBrains/thinkrail` | [#1409](https://github.com/JetBrains/thinkrail/pull/1409) | `fix(pi-subagents): accept only plain decimal max_turns` | 2026-11-18 | `5b8171bd` |
-| 3 | `JetBrains/thinkrail` | [#1125](https://github.com/JetBrains/thinkrail/pull/1125) | `fix(cli): reject empty/non-decimal --port and --host, ignore invalid env values` | 2026-11-06 | `519286be` |
-| 4 | `JetBrains/thinkrail` | [#1190](https://github.com/JetBrains/thinkrail/pull/1190) | `fix(web): parse THINKRAIL_WEB_PORT and THINKRAIL_PORT strictly in vite config` | 2026-11-05 | `a0fccdc9` |
-| 5 | `JetBrains/thinkrail` | [#1156](https://github.com/JetBrains/thinkrail/pull/1156) | `fix(dev): parse THINKRAIL_PORT strictly in the dev launchers` | 2026-11-05 | `8cd11e67` |
-| 6 | `SuiteCRM/SuiteCRM` | [#10913](https://github.com/SuiteCRM/SuiteCRM/pull/10913) | `Fixed #10907 - Remove unintended < symbol from SuiteCRM trademark notice` | 2026-10-29 | `ccb02b1e` |
-| 7 | `mlflow/mlflow` | [#25829](https://github.com/mlflow/mlflow/pull/25829) | `fix: treat .ipynb notebooks as text/plain in artifact preview` | 2026-09-22 | `7e221982` |
-| 8 | `K-Tanish/symptom-assist` | [#18](https://github.com/K-Tanish/symptom-assist/pull/18) | `Fix: Improve Groq API error handling with retry logic (Fixes Bug #2)` | 2026-04-20 | `e656cbf9` |
+| 1 | `openslop/openslop` | [#1325](https://github.com/openslop/openslop/pull/1325) | `feat(ui): Export button says why it is greyed out (part of #812)` | 2026-11-22 | `6baa4b56` |
+| 2 | `openslop/openslop` | [#1323](https://github.com/openslop/openslop/pull/1323) | `fix: 480p renders whole, even pixel dimensions (fixes #1319)` | 2026-11-20 | `f8376871` |
+| 3 | `JetBrains/thinkrail` | [#1412](https://github.com/JetBrains/thinkrail/pull/1412) | `test(ui): normalize source paths in the IME guard test on Windows` | 2026-11-18 | `e632a12c` |
+| 4 | `JetBrains/thinkrail` | [#1409](https://github.com/JetBrains/thinkrail/pull/1409) | `fix(pi-subagents): accept only plain decimal max_turns` | 2026-11-18 | `5b8171bd` |
+| 5 | `JetBrains/thinkrail` | [#1125](https://github.com/JetBrains/thinkrail/pull/1125) | `fix(cli): reject empty/non-decimal --port and --host, ignore invalid env values` | 2026-11-06 | `519286be` |
+| 6 | `JetBrains/thinkrail` | [#1190](https://github.com/JetBrains/thinkrail/pull/1190) | `fix(web): parse THINKRAIL_WEB_PORT and THINKRAIL_PORT strictly in vite config` | 2026-11-05 | `a0fccdc9` |
+| 7 | `JetBrains/thinkrail` | [#1156](https://github.com/JetBrains/thinkrail/pull/1156) | `fix(dev): parse THINKRAIL_PORT strictly in the dev launchers` | 2026-11-05 | `8cd11e67` |
+| 8 | `SuiteCRM/SuiteCRM` | [#10913](https://github.com/SuiteCRM/SuiteCRM/pull/10913) | `Fixed #10907 - Remove unintended < symbol from SuiteCRM trademark notice` | 2026-10-29 | `ccb02b1e` |
+| 9 | `mlflow/mlflow` | [#25829](https://github.com/mlflow/mlflow/pull/25829) | `fix: treat .ipynb notebooks as text/plain in artifact preview` | 2026-09-22 | `7e221982` |
+| 10 | `K-Tanish/symptom-assist` | [#18](https://github.com/K-Tanish/symptom-assist/pull/18) | `Fix: Improve Groq API error handling with retry logic (Fixes Bug #2)` | 2026-04-20 | `e656cbf9` |
 
 </details>
 
